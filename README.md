@@ -76,5 +76,4 @@ views/ – Reporting views
 - Project requirements and design decisions are documented separately.
 - Highlights practical skills in **SQL Server development, data integrity, query optimization, and business reporting**.  
 
-- Highlights practical skills in **SQL Server development, data integrity, query optimization, and business reporting**.  
 
